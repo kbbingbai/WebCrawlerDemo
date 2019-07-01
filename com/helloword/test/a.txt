@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.inoreader.com	FALSE	/	FALSE		PHPSESSID	ql4clu6p2vehect31rp7mnia83
+www.inoreader.com	FALSE	/	FALSE	1564189764	al	s_qEpt2KTR4N5MpU1dsNmS4nKcOl8EMbmuHeLKjWIMo1QD0-1561511362223360
